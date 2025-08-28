@@ -1,6 +1,11 @@
 # Implementation Plan
 
-- [ ] 1. 建立專案結構和基礎配置
+- [x] 1. 建立專案結構和基礎配置
+
+
+
+
+
   - 創建前端(TypeScript)和後端(Node.js)目錄結構
   - 設定前後端package.json和TypeScript依賴項
   - 配置TypeScript編譯器和開發工具(Webpack/Vite)
